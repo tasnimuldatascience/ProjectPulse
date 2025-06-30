@@ -129,9 +129,11 @@ Tokens are securely stored and used for per-user context enforcement.
 
 ---
 
-## 📈 Evaluation (Optional Bonus)
+## 📺 YouTube Presentation
 
-Future support for [`smithery.ai evals`](https://smithery.com/mcp/evals) to test how accurately the agent performs.
+Watch the full walkthrough of ProjectPulse on YouTube:  
+👉 [https://youtu.be/8QGIbeGtZ2g](https://youtu.be/8QGIbeGtZ2g)
+
 
 ---
 
